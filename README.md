@@ -30,6 +30,13 @@ cons
 
 ---
 
+| \    | AWS                                                                                                                                             | Firebase                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Pros | - all-in-one solution <br> - many different services<br> - Lambda’s performance <br> - pay-per-use service<br> - all-inclusive entire ecosystem | - unique services eg: traffic management services <br> - easy to scale <br> - lower learning curve |
+| Cons | - slight learning curve <br> - larger team friendly with a large suite of products                                                              | - difficult to query larger datasets<br> - no relational data                                      |
+
+---
+
 #### Serverless Architecture?
 
 A serverless architecture is essentially a microservice architecture. Whenever an event occurs, a code or function is executed. The server runs when something happens. The code only wakes up when it receives a request. It’s not persistent and running all day, all week.
